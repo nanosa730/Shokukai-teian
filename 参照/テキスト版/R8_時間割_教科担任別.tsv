@@ -1,0 +1,49 @@
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37
+	令和８年度			　教科担任別時間割（本時間割）																									2026-08-19 00:00:00			ver
+	組		月							火							水							木							金
+			1	2	3	4	5	6		1	2	3	4	5	6		1	2	3	4	5	6		1	2	3	4	5	6		1	2	3	4	5	6	担任名
+1	1A	柿家		3A	主		1A	道				待機	1B	3A			1A		1C	1B		学		3A		生	1C	1B			1A			3A	1C	総	柿家
+2	1B	石垣			3E	3D	3A	道			1FE			1C	1D		1DC	1BA		3B	3C	学		1A		1B	1E				待機	待機	待機		1F	総	石垣
+3	1C	石飛	1C	1F	主		1B	道		1F		1CT		1Dt					1BT		1C	学		1C	1B	1F					1B	1FT		1At	1Et	総	石飛
+4	1C	髙橋咲	1A		1C	1E		道			IJ	1E			1C		1E	1C	1A			学		IJ	1C			1A			1E	1A	初	初		総	髙橋咲
+5	1D	馬場	1E		1D	1F		道		1D			1A	1F	1E		1F	1D		1A	IJ	学		1D	1A		1F	1E					1E		1A	総	馬場
+6	1E	谷口	IJ	IJ		2E	2B	道		1B	1A		3AB	3DE			待機		1E	1F		学		2D	2A	2C		3C			1C	1D		T2		総	谷口
+7	1F	西脇		1CD	1EF	1AB		道		3DE	3A		1CD	1AB					3A	3DE	1EF	学		待機	3DE	生		1CD			3A		1AB	1EF		総	西脇
+8		安井		1E	1A		1F	道			1D	1A	1F	1E	1B			1F	1D		1B					1E	1A							1B	1D	総	安井
+9		浅田	1B	1A		1D	1C				1EF		3C	3B			1CD	1AB		2E	2D			1E	1F		3A	2C				2B	2A	3E	3D	総	浅田
+10		渡邉	1F	1B	主		1D			3B		1D			1F		1B		3B		1D			1B	1D	3B		1F			3B	初	1F	初	1B	総	渡邉
+11		高橋美		さくら	さくら	さくら						1Ct	1E	1DT	1A			1E	1Bt	1D	1A				1E	1A	1D	IJ				1Ft	1D	1AT	1ET		高橋美
+		丹羽		2B	1B	1C	2C				1C	1B	2D	2A												1C	1B					1B		1C	2E		丹羽
+12		佐野	T2	T2	主		待機			1C		T2					T2			1C						生	待機	待機			T2		1C				佐野
+13	2A	大島			2E	2D	2A	道		2C			2E	2B	総		2D	2B		2C	2E	学			2D	2A	IJ				2C	2A			2B	総	大島
+14	2B	名倉	1D		2A	2B	1E	道		1E		1F	2B		総			2A	2B			学		1F	待機	1D					1F	1E		1D	2A	総	名倉
+15	2C	浅野	IJ	IJ		2C	2D	道		1A	1B		3AB	3DE	総				1F	1E	2A	学		2E	2B			3C			1D	1C		待機		総	浅野
+16	2C	酒井		2D	2C	IJ		道		2E	2D	初	初		総		2C	待機				学			2C	IJ	2E				2D		2E			総	酒井
+17	2D	樽見	2C	2E	2D			道		2B			2C	2E	総		2E		2D	2B	2C	学			2E	2B		2D				2C	2D	2B		総	樽見
+18	2E	髙田	2E	2A	2B		T2	道		2D	2E		2A	2C	総			2C	2A	2D		学		2C				2B			2B	2E		2D		総	髙田
+19		鈴木	2AB	待機	主		3BC	道			2C	2DE			総		2AB	2DE	2C					3BC		2DE	2AB					3BC			2C	総	鈴木
+20		藤井	2D	2C	主		2E	道		2A	2B	2C		2D	総				2E	2A	2B			2B		生	2D	2A			2E			2C		総	藤井
+21		長谷川麻		1CD	1EF	1AB					2C	2DE	1CD	1AB				2DE	2C	T2	1EF				IJ	2DE		1CD				T2	1AB	1EF	2C		長谷川麻
+22		篠田									2A	2B	さくら						さくら							さくら						2D	2C	2E	さくら		篠田
+23
+24
+25	3A	城		3D	3C	3E		道			3C	3A	3E		総		3D		3C		3A	学				3A	3E	3D				3D	3A	3C	3E	総	城
+26	3B	幸島	3C	3E	3B		3D	道		3C	3E	3B			総		3B	3D			3E	学				3C	3D	3B			3E		3C	3D		総	幸島
+27	3C	菅田	3A		3D	3B		道			3B	3C	3D		総		3E	3A		3C	3D	学				生	3C	3E				3A	3E		3B	総	菅田
+28	3D	仲野	3D	3B	3A			道		待機		3D		待機	総		3A	3B	待機			学			3B	3D		3A				IJ	3D	3B	3A	総	仲野
+29	3E	朝日	3B	3C		2A	3E	道				2A		3C	総		3C	3E			3B	学		2A		3E	3B				2A	3E	3B		3C	総	朝日
+30		松田	待機		主	3A		道		3A	3D		IJ		総				3D	3A				3D	3A	待機					3D		IJ		待機	総	松田
+31		長谷川俊	3E		待機	3C		道			待機	3E	待機		総			3C	3E	待機				3E	3C		2C	2E			3C		2B	2A	2D	総	長谷川俊
+32		山田	2AB		IJ	待機	3BC	道		3DE	3A			T2	総		2AB		3A	3DE	待機			3BC	3DE		2AB				3A	3BC			IJ	総	山田
+33
+34
+35		AET１																						1C	1B	1F	2C	2E				IJ	2B	2A	2D		AET１
+36		AET２	 																					3E	1E	1A	1D	IJ			3C		3D	3B	3A		AET２
+37	IJ	松村		IJ家	主	IJ社	IJ作	道		IJ自	IJ数	IJ音	IJ理		総			IJ美	IJ美	IJ作	IJ国	学		IJ数		IJ社	IJ国	IJ英			IJ音	IJ英	IJ理	IJ作		総	松村
+38	IJ	春日井	IJ技		IJ保体	IJ社		道		IJ自	IJ数		IJ理	IJ作	総		IJ自	IJ美	IJ美		IJ国	学		IJ数	IJ保体	IJ社	IJ国				IJ音		IJ理	IJ作	IJ保体	総	春日井
+39	IJ	野々村	IJ技	IJ家	IJ保体		IJ作	道		IJ自	IJ数	IJ音		IJ作	総		IJ自	IJ美	IJ美	IJ作		学		IJ数	IJ保体	生	IJ国	IJ英			IJ音				IJ保体	総	野々村
+40
+	（3AT）　＝　T・T授業（メイン）　　（3At）　＝　T・T授業（援助）
+			IJ	2CT		1Dt																			1CDt	1Bt	1At	学
+				2Ct		1DT																			1CＤT	1BT	1ＡT	学
+				2A		IJ	IJ																	1E		2B		学
