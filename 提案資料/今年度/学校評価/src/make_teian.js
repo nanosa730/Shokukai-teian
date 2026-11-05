@@ -204,5 +204,7 @@ const doc = new Document({
     children: [...page1, ...bessi1],
   }],
 });
-const out = path.join(__dirname, "..", "R8_学校評価の実施について（提案）.docx");
+// 正本は手で直したWord（../R8_学校評価の実施について（提案）.docx）。上書きしないよう _generated に出力する
+const out = path.join(__dirname, "_generated", "R8_学校評価の実施について（提案）_自動生成.docx");
+fs.mkdirSync(path.dirname(out), { recursive: true });
 Packer.toBuffer(doc).then(b => { fs.writeFileSync(out, b); console.log("Wrote", out, total, cnt); });
